@@ -12,12 +12,18 @@ Both are trained and evaluated using a dataset of individual demographics and in
 ## 📁 Project Structure
 
 insurance-cost-prediction/
-├── data/
+├── data/ 
+
 │ └── insurance.csv
+
 ├── notebooks/
+
 │ ├── 01_linear_regression_analysis.ipynb
+
 │ └── 02_mlp_regression_analysis.ipynb
+
 ├── README.md
+
 └── .gitignore
 
 ---
