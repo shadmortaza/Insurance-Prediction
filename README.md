@@ -12,6 +12,7 @@ Both are trained and evaluated using a dataset of individual demographics and in
 ## 📁 Project Structure
 
 insurance-cost-prediction/
+
 ├── data/ 
 
 │ └── insurance.csv
